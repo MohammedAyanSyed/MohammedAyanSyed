@@ -20,5 +20,5 @@ I’m currently working on end-to-end data projects: scraping real-world data, s
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Myname/MohammedAyanSyed/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MohammedAyanSyed/MohammedAyanSyed/output/github-contribution-grid-snake-dark.svg" />
 </p>
