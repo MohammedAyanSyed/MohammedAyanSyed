@@ -17,7 +17,7 @@ I’m currently working on end-to-end data projects: scraping real-world data, s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAyanSyed&theme=aura&hide_border=false&layout=compact" width="45%" />
 </p>
 
-## 🐍 Snake Animation
+# 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedAyanSyed/MohammedAyanSyed/output/github-contribution-grid-snake-dark.svg" />
