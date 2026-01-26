@@ -24,7 +24,7 @@ I’m currently working on end-to-end data projects: scraping real-world data, s
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/Myname/Myname/output/github-contribution-grid-snake-dark.svg">
     <img alt="GitHub contribution grid snake"
-         src="https://raw.githubusercontent.com/Myname/Myname/output/github-contribution-grid-snake.svg">
+         src="https://raw.githubusercontent.com/MohammedAyanSyed/MohammedAyanSyed/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
