@@ -9,8 +9,7 @@ I’m currently working on end-to-end data projects: scraping real-world data, s
 
 # 📊 GitHub Stats:
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MohammedAyanSyed&theme=aura&hide_border=false" width="45%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAyanSyed&theme=aura&hide_border=false&count_private=true&cache_seconds=86400" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAyanSyed&theme=aura&hide_border=false" width="45%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=MohammedAyanSyed&theme=aura&hide_border=false" width="50%" />
 </p>
 
